@@ -4,7 +4,7 @@
 
 This is the [Textmate](http://macromates.com/)/[Sublime Text](http://www.sublimetext.com/) bundle for [Emblem.js](http://emblemjs.com/).
 
-Shamelessly ripped off from Fred Wu's awesome [ruby-slim.tmbundle](https://github.com/slim-template/ruby-slim.tmbundle). [![Endorse Fred Wu here.](http://api.coderwall.com/fredwu/endorsecount.png)](http://coderwall.com/fredwu)
+Shamelessly ripped off from Fred Wu's awesome [ruby-slim.tmbundle](https://github.com/slim-template/ruby-slim.tmbundle).
 
 
 ## Installation
@@ -26,8 +26,8 @@ Please install it via [Package Control](http://wbond.net/sublime_packages/packag
 
 ## Author
 
-[Jacques Crocker](http://lizilabs.com/)
+[Jacques Crocker](http://lizilabs.com/) [![Endorse Jacques here.](http://api.coderwall.com/railsjedi/endorsecount.png)](http://coderwall.com/railsjedi)
 
 ## Original Author (of Slim.tmbundle)
 
-[Fred Wu](http://fredwu.me/)
+[Fred Wu](http://fredwu.me/) [![Endorse Fred Wu here.](http://api.coderwall.com/fredwu/endorsecount.png)](http://coderwall.com/fredwu)
