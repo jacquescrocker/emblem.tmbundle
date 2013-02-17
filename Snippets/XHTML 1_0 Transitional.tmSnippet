@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>XHTML 1.0 Transitional</string>
 	<key>scope</key>
-	<string>text.slim</string>
+	<string>text.emblem</string>
 	<key>tabTrigger</key>
 	<string>doctype</string>
 	<key>uuid</key>

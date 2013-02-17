@@ -15,7 +15,7 @@
 	<key>name</key>
 	<string>table (templated)</string>
 	<key>scope</key>
-	<string>text.slim</string>
+	<string>text.emblem</string>
 	<key>tabTrigger</key>
 	<string>t</string>
 	<key>uuid</key>

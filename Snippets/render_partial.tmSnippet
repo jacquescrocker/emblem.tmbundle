@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>render_partial</string>
 	<key>scope</key>
-	<string>text.slim</string>
+	<string>text.emblem</string>
 	<key>tabTrigger</key>
 	<string>=</string>
 	<key>uuid</key>

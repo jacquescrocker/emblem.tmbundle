@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>contactEmail</key>
-	<string>ifredwu@gmail.com</string>
+	<string>railsjedi@gmail.com</string>
 	<key>contactName</key>
-	<string>Fred Wu</string>
+	<string>Jacques Crocker</string>
 	<key>description</key>
-	<string>A lightweight templating engine for ruby, &lt;a href="http://slim-lang.com" title="Slim - A Fast, Lightweight Template Engine for Ruby"&gt;more info&lt;/a&gt;.</string>
+	<string>A lightweight templating engine for Handlebars, &lt;a href="http://emblemjs.com" title="Emblem.js - A Fast, Lightweight Template Engine for Handlebars"&gt;more info&lt;/a&gt;.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -164,7 +164,7 @@
 		</dict>
 	</dict>
 	<key>name</key>
-	<string>Ruby Slim</string>
+	<string>Emblem.js</string>
 	<key>ordering</key>
 	<array>
 		<string>551C1FAA-2A9E-4791-843F-CC705CCAC5D3</string>
@@ -214,7 +214,7 @@
 		<string>088A0002-3883-4218-82AA-BC032695F61E</string>
 		<string>E6C67BE8-9E78-4351-A7BA-23594BC43EE6</string>
 		<string>82AC28A9-6FFF-48C3-9BC0-D4B365918AE5</string>
-		<string>36302CC1-1E76-4910-B7B6-F1915EBBA0D3</string>
+		<string>36302CC1-1E77-4910-B7B6-F1915EBBA0D3</string>
 	</array>
 	<key>uuid</key>
 	<string>A24283A1-6C91-4CDB-80C5-DC606ED62F04</string>

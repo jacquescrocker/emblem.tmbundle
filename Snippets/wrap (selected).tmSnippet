@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>wrap (selected)</string>
 	<key>scope</key>
-	<string>text.slim</string>
+	<string>text.emblem</string>
 	<key>uuid</key>
 	<string>77DCAA0A-744F-4E57-897D-16E4F8A2D5B2</string>
 </dict>

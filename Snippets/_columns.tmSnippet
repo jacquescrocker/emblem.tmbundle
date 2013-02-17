@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>.columns</string>
 	<key>scope</key>
-	<string>text.slim</string>
+	<string>text.emblem</string>
 	<key>tabTrigger</key>
 	<string>.c</string>
 	<key>uuid</key>

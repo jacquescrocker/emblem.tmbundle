@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>emphasized</string>
 	<key>scope</key>
-	<string>text.slim</string>
+	<string>text.emblem</string>
 	<key>tabTrigger</key>
 	<string>e</string>
 	<key>uuid</key>
